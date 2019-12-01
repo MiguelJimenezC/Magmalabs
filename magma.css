@@ -1,0 +1,160 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	width: 100%;
+	height: auto;
+	background-image: url("http://chainimage.com/images/descargar-fondos-de-pantalla-textura-de-madera-negra-hd-widescreen.jpg");
+	background-position: top;
+}
+.img-logo
+{
+	width: 260px;
+	margin-left: 30px;
+	padding: 10px;
+
+}
+.menu ul
+{
+	display: flex;
+}
+.menu li
+{
+	list-style: none;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+}
+.menu li a
+{
+	
+	padding: 20px;
+
+}
+.menu li:hover{
+
+	color:white ;
+}
+
+.menu
+{
+	width: auto;
+	float: right;
+	margin-top: 20px;
+	margin-right:110px;
+}
+main
+{
+	position: relative;
+	margin-top: -20px;
+	
+}
+.contenido
+{
+	width: 100%;
+	height: 400px;
+	background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efd9d86c-afdd-4070-992b-31681e2ebd9c/d2a8ljg-b3813158-f9ec-4817-a73d-bdd237569291.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZDlkODZjLWFmZGQtNDA3MC05OTJiLTMxNjgxZTJlYmQ5Y1wvZDJhOGxqZy1iMzgxMzE1OC1mOWVjLTQ4MTctYTczZC1iZGQyMzc1NjkyOTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.066bPJIrbUOt6fnhTtcv_mcOnzbX9EfsRtqMRznNvdg");
+	background-position: center;
+	background-color: black;
+	background-repeat: no-repeat;
+	padding-top: 110px;
+	margin-top: 10px;
+
+
+}
+.titulo
+{
+	width: 100%;	
+	margin: auto;
+	text-align: center;
+}
+.titulo h1
+{
+
+	color: #B51B1B;
+	font-size: 50px;
+	
+}
+.titulo h3
+{
+	color: white;
+}
+.contenido ul
+{
+	display: flex;
+}
+.contenido li
+{
+	padding-right: 40px;
+}
+.contenido 
+{
+	text-align: center;
+}
+.menu-2
+{
+	width: auto;
+	float: right;
+	margin-top: 20px;
+	margin-right:370px;
+	color: white;
+}
+.contenedor
+{
+	width: 100%;
+	background-color: #D5CBCB;
+}
+.detalles
+{
+	width: 100%
+	margin:auto;
+	margin-left: 50px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.cont
+{
+	width: 300px;
+	text-align: center;
+}
+.img
+{
+	width: 150px;
+	margin-left: 20px;
+	padding: 20px;
+}
+.contenedor h2
+{
+	padding-top: 20px;
+}
+.end
+{
+	margin-top: 30px;
+	display: flex;
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+.imga
+{
+	width: 600px;
+	padding: 10px;
+	
+
+}
+.conte
+{
+	width: 100%;
+	margin-right: 150px;
+	margin-left: 150px;
+	text-align: center;
+}
+button
+{
+	border-radius: 8px;
+	background-color: #E84C4C;
+	padding: 14px 40px;
+}

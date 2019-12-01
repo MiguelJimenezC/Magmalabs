@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Magmalabs</title>
+	<link rel="stylesheet" type="text/css" href="magma.css">
+</head>
+<body>
+	<header>
+		<img src="http://blog.magmalabs.io/wp-content/uploads/2015/10/magmalabs-logo-variants-01.png" class="img-logo">
+		<nav class="menu">		
+			<ul>
+				<li><a href="#"></a>OUR SERVICES</li>
+				<li><a href="#"></a>CASE STUDIES</li>
+				<li><a href="#"></a>ABOUT US</li>
+				<li><a href="#"></a>BLOG</li>
+				<li><a href="#"></a>CONTACTUS</li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<div class="contenido">
+			<div class="titulo">
+				<h1>MagmaLabs builds tailored software solutions to help companies execute their vision.</h1>
+				<h3>With loyal teams achieving quick turn-around.</h3>
+				<nav class="menu-2">		
+			<ul>
+				<li><a href="#"></a>OUR SERVICES</li>
+				<li><a href="#"></a>CASE STUDIES</li>
+				<li><a href="#"></a>ABOUT US</li>
+				<li><a href="#"></a>BLOG</li>
+				<li><a href="#"></a>CONTACTUS</li>
+			</ul>
+		</nav>
+			</div>
+		</div>
+	</main>
+	<main>
+		
+		<div class="contenedor">
+			<center><h2>Exceptional digital products</h2></center>
+			<div class="detalles">
+				
+				<div class="cont">
+					<img src="https://images.vexels.com/media/users/3/157318/isolated/preview/2782b0b66efa5815b12c9c637322aff3-icono-de-la-computadora-de-escritorio-by-vexels.png" class="img">
+					<h3>Web development</h1>
+					<p>Effective and attractive web apps developed using cutting-edge technologies and techniques.</p>
+					<h3>LEARN MORE</h3>
+				</div>
+				<div class="cont">
+					<img src="https://images.vexels.com/media/users/3/157318/isolated/preview/2782b0b66efa5815b12c9c637322aff3-icono-de-la-computadora-de-escritorio-by-vexels.png" class="img">
+					<h3>Ecommerce solutions</h1>
+					<p>Strategies designed to boost your ecommerce sales with top-notch technology..</p>
+					<h3>LEARN MORE</h3>
+				</div>
+				<div class="cont">
+					<img src="https://images.vexels.com/media/users/3/157318/isolated/preview/2782b0b66efa5815b12c9c637322aff3-icono-de-la-computadora-de-escritorio-by-vexels.png" class="img">
+					<h3>Mobile development</h1>
+					<p>High-performance mobile apps that connect brands with customers</p>
+					<h3>LEARN MORE</h3>
+				</div>
+				<div class="cont">
+					<img src="https://images.vexels.com/media/users/3/157318/isolated/preview/2782b0b66efa5815b12c9c637322aff3-icono-de-la-computadora-de-escritorio-by-vexels.png" class="img">
+					<h3>UX/UI design</h1>
+					<p>Engaging customer experiences through innovative and beautiful digital products.</p>
+					<h3>LEARN MORE</h3>
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<main>
+		<div class="end">
+			<div class="conte">
+			<center><h2>Exceptional digital products</h2></center>
+					<center><img src="https://www.magmalabs.io/images/services/pm.svg" class="imga"></center>
+					<p>With the help of Agile methodologies and multidisciplinary teams, MagmaLabs ensures the quality of product development and sustainable work-pace oriented to give the best value to our customers. We use modern tools to help continuous communication, task organization, and weekly iterations of focused work.</p>
+					<h3>Our product development process</h3>
+					<center><img src="https://www.magmalabs.io/images/process-horizontal-01.svg" class="imga"></center>
+					<button> CONTACTANOS</button>
+	
+				</div>
+		</div>
+	</main>
+
+
+</body>
+</html>
